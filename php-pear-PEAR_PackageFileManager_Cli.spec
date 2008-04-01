@@ -29,7 +29,7 @@ package xml files.
 In PEAR status of this package is: %{_status}.
 
 %description -l pl.UTF-8
-Interfejs linii polceń do PEAR_PackageFileManager. Narzędzie to może
+Interfejs linii poleceń do PEAR_PackageFileManager. Narzędzie to może
 być użyte jako alternatywa do tworzenia skryptów PHP zajmujących się
 tworzeniem bądź edycją plików package.xml.
 
