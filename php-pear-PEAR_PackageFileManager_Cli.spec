@@ -7,7 +7,7 @@ Summary:	%{_pearname} - a command line interface to PEAR_PackageFileManager
 Summary(pl.UTF-8):	%{_pearname} - interfejs linii poleceń do PEAR_PackageFileManager
 Name:		php-pear-%{_pearname}
 Version:	0.3.0
-Release:	3
+Release:	4
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
@@ -15,6 +15,7 @@ Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/PEAR_PackageFileManager_Cli/
 BuildRequires:	php-pear-PEAR >= 1:1.4.3
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
+BuildRequires:	rpmbuild(macros) >= 1.574
 Requires:	php-pear
 Requires:	php-pear-PEAR >= 1.4.3
 Requires:	php-pear-PEAR_PackageFileManager >= 1.6.0
