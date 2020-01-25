@@ -1,6 +1,5 @@
 %define		status		alpha
 %define		pearname	PEAR_PackageFileManager_Cli
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - a command line interface to PEAR_PackageFileManager
 Summary(pl.UTF-8):	%{pearname} - interfejs linii poleceń do PEAR_PackageFileManager
 Name:		php-pear-%{pearname}
