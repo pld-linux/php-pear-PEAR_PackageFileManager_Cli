@@ -4,7 +4,7 @@ Summary:	%{pearname} - a command line interface to PEAR_PackageFileManager
 Summary(pl.UTF-8):	%{pearname} - interfejs linii poleceń do PEAR_PackageFileManager
 Name:		php-pear-%{pearname}
 Version:	0.4.0
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
